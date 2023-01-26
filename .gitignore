@@ -1,0 +1,12 @@
+# venv #
+venv
+
+# Django #
+*.pot
+*.pyc
+__pycache__
+pasekromeu/settings.py
+media
+
+# Pycharm #
+.idea
